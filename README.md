@@ -7,8 +7,8 @@ Wrap your ExpressionEngine Date Variable in your template code:
 
 ```html
 {exp:localee
-    language = ""               // Base locale ID of the given language
-    format = "%d %F %Y"			// Pass in EE date format format you want returned
+    language = ""			// Base locale ID of the given language
+    format = "%d %F %Y"		// Pass in EE date format format you want returned
 }
     {entry_date}
 {/exp:localee}
