@@ -1,5 +1,5 @@
 # Localee
-## Translate EE Date Variables in to a given language.  
+## Translate Expression Engine Date Variables in to a given language.  
 
 Current only supports months, but we will later add support for full language dates.
 
